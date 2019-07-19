@@ -37,7 +37,7 @@
 				<artifactId>jboss-eap-javaee7-with-tools</artifactId>
 				<version>7.0.2.GA</version>
 				<type>pom</type>
-				<scope>import</scope>
+				
 			</dependency>
 
 			<dependency>
